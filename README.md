@@ -1,5 +1,8 @@
 # College_APP-Xenon-
 ## Theme:-College/Uni App
+You have to download  `Mysql` workbench to run this program.
+I had run a query through which the `loginschema` created after that I had made a table by which we can store columns such as "id","password","name","email" and these are used to register the student as well as valid credentials are used to match the Login info. at the time of logging of any user.
+
 ### a) Software Requirements
 1)FrontEnd Based Frameworks used
   `HTML` `CSS`<br>
